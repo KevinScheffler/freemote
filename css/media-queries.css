@@ -1,0 +1,50 @@
+/* mobile first styles */
+body {
+  font-size: 2rem;
+}
+
+.container {
+  background: dimgrey;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 3rem;
+  }
+  .container {
+    background: cadetblue;
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .container {
+    background: cadetblue;
+    margin: 20px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px up) */
+@media only screen and (min-width: 768px) {
+  
+}
+/* Large devices (laptops/desktops, 992px ap) */
+@media only screen and (min-width: 992px) {
+  body {
+    font-size: 4rem;
+    margin: 40px;
+  }
+  .container {
+    background: forestgreen;
+  }
+}
+
+/* Extra large devices (large laptops and dops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
