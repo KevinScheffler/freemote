@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 15%;
+}
+
+#hero {
+  background: bottom / 100% url('background-beach.jpg');
+  height: 250px;
+}

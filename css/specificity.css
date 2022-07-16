@@ -1,0 +1,14 @@
+h1 {
+  font-family: Impact;
+  font-size: 3rem;
+  margin: 50px;
+}
+
+h2 {
+  text-align: center;
+  color: skyblue;
+}
+
+.secondary {
+  color: blue;
+}

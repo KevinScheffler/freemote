@@ -1,0 +1,16 @@
+/* elements */
+* {
+  margin: 0;
+}
+h1 {
+  background-color: cornflowerblue;
+  color: white;
+}
+/* classes */
+.sub-header {
+  font-size: 30px;
+}
+/* ids */
+#main-header {
+  font-size: 80px;
+}

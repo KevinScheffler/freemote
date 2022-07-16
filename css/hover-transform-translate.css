@@ -1,0 +1,11 @@
+h1 {
+  color: skyblue;
+  transition: .5s ease all;
+}
+
+h1:hover {
+  cursor: pointer;
+  color: cornflowerblue;
+  transition: .5s ease all;
+  transform: translateY(10px);
+}

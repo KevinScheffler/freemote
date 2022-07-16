@@ -1,0 +1,15 @@
+/* .container-one .secondary {
+  color: skyblue;
+} */
+
+/* .container-one {
+  color: green;
+} */
+
+/* h1.secondary {
+  color: skyblue;
+} */
+
+h1 ~ h2 {
+  color: skyblue;
+}
