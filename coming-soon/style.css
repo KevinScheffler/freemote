@@ -1,0 +1,16 @@
+body, html {
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+#logo {
+  margin: 15px auto;
+  display: block;
+}
+
+#athlete {
+  background: url("images/athlete.png") no-repeat right top;
+  background-size: cover;
+  height: 200px;
+  width: 100%;
+}
